@@ -1,0 +1,28 @@
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.deps.json
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.runtimeconfig.json
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.runtimeconfig.dev.json
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.dll
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.csproj.AssemblyReference.cache
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.AssemblyInfoInputs.cache
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.AssemblyInfo.cs
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.csproj.CoreCompileInputs.cache
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.dll
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.genruntimeconfig.cache
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Repositorio\livros.csv
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\00 Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Repositorio\livros.csv
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\00 Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.deps.json
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\00 Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.runtimeconfig.json
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\00 Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.runtimeconfig.dev.json
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\00 Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.dll
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\00 Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\00 Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.csproj.AssemblyReference.cache
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\00 Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\00 Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.AssemblyInfoInputs.cache
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\00 Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.AssemblyInfo.cs
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\00 Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.csproj.CoreCompileInputs.cache
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\00 Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.dll
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\00 Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
+C:\Pablo\Estudos\C#\GitHub Repository\Asp.NET-Core-MVC\00 Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.genruntimeconfig.cache
